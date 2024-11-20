@@ -1,4 +1,4 @@
-let num = 10;
+let num = 7;
 
 console.log(num);
 
@@ -14,5 +14,7 @@ else if (num % 5 === 0) {
     console.log('５の倍数です');
 }
 
-
+else {
+    console.log(num)
+}
 
